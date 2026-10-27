@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 128 128" fill="#60a5fa">
+  <title>Chordive</title>
+  <!-- Radial 15-degree gaps centered at five o'clock on both C rings. -->
+  <path d="M64 10A54 54 0 1 0 84.665 113.889L80.647 104.189A43.5 43.5 0 1 1 64 20.5Z" />
+  <path d="M96.873 106.841A54 54 0 0 0 118 64L107.5 64A43.5 43.5 0 0 1 90.481 98.511Z" />
+  <path d="M64 30A34 34 0 1 0 77.011 95.412L72.993 85.711A23.5 23.5 0 1 1 64 40.5Z" />
+  <path d="M84.698 90.974A34 34 0 0 0 98 64L87.5 64A23.5 23.5 0 0 1 78.306 82.644Z" />
+  <!-- Based on Popadius's public-domain Music-eighthnote.svg (option A). -->
+  <!-- https://commons.wikimedia.org/wiki/File:Music-eighthnote.svg -->
+  <!-- Notehead enlarged 1.2x around (64,64), with a smooth shoulder into the stem. -->
+  <!-- Stem width is 5.25: half the 10.5-unit C ring thickness. -->
+  <!-- A compact, fuller flag replaces the original thin hooked tip. -->
+  <path id="chordive-note" fill-rule="evenodd" d="
+    M69.98282 10
+    V50.7
+    C69.98282 53.4 69 54.625 66.6 54.625
+    C64.2 54.625 61.94 55.142 59.53497 56.46821
+    C53.82515 59.61525 51.22093 65.51645 53.7119 69.65434
+    C56.20288 73.79223 62.8485 74.60605 68.55833 71.45901
+    C71.98598 69.56982 74.27068 66.68136 75.03108 63.78315
+    C75.18766 63.06716 75.23282 62.50603 75.23282 62.00369
+    V33.5
+    C75.23282 31.8 76.33282 31.3 77.9 32.1
+    C85 35.75 89.5 42.3 85.3 53.4
+    C91.4 48.6 93.7 42.6 91.4 36.4
+    C88.4 27.4 75.23282 22.8 75.23282 10Z
+  " />
+</svg>

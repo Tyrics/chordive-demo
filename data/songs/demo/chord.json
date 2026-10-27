@@ -1,0 +1,5224 @@
+{
+  "version": "1.0",
+  "song": {
+    "id": "demo",
+    "title": "You Are Not Alone",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "album": {
+      "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I"
+    },
+    "duration": "354.841s"
+  },
+  "tracks": [
+    {
+      "id": "chords",
+      "type": "chord",
+      "name": "和弦",
+      "events": [
+        {
+          "id": "C1",
+          "begin": "0.000s",
+          "end": "6.000s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m7",
+            "bass": "E",
+            "degrees": []
+          }
+        },
+        {
+          "id": "C2",
+          "begin": "6.000s",
+          "end": "18.729s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C3",
+          "begin": "18.729s",
+          "end": "22.730s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C4",
+          "begin": "22.730s",
+          "end": "26.731s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C5",
+          "begin": "26.731s",
+          "end": "30.733s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C6",
+          "begin": "30.733s",
+          "end": "34.734s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C7",
+          "begin": "34.734s",
+          "end": "38.735s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C8",
+          "begin": "38.735s",
+          "end": "42.737s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C9",
+          "begin": "42.737s",
+          "end": "46.738s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C10",
+          "begin": "46.738s",
+          "end": "50.739s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C11",
+          "begin": "50.739s",
+          "end": "52.490s",
+          "type": "chord",
+          "data": {
+            "root": "A",
+            "quality": "6",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C12",
+          "begin": "52.490s",
+          "end": "54.741s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "+",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C13",
+          "begin": "54.741s",
+          "end": "58.742s",
+          "type": "chord",
+          "data": {
+            "root": "E",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C14",
+          "begin": "58.742s",
+          "end": "62.743s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C15",
+          "begin": "62.743s",
+          "end": "66.745s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C16",
+          "begin": "66.745s",
+          "end": "70.746s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C17",
+          "begin": "70.746s",
+          "end": "74.747s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C18",
+          "begin": "74.747s",
+          "end": "78.749s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C19",
+          "begin": "78.749s",
+          "end": "82.750s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C20",
+          "begin": "82.750s",
+          "end": "86.751s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C21",
+          "begin": "86.751s",
+          "end": "90.753s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C22",
+          "begin": "90.753s",
+          "end": "94.754s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C23",
+          "begin": "94.754s",
+          "end": "98.755s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C24",
+          "begin": "98.755s",
+          "end": "102.757s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C25",
+          "begin": "102.757s",
+          "end": "104.257s",
+          "type": "chord",
+          "data": {
+            "root": "G",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C26",
+          "begin": "104.257s",
+          "end": "106.758s",
+          "type": "chord",
+          "data": {
+            "root": "A",
+            "quality": "",
+            "bass": "G",
+            "degrees": []
+          }
+        },
+        {
+          "id": "C27",
+          "begin": "106.758s",
+          "end": "110.759s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C28",
+          "begin": "110.759s",
+          "end": "112.260s",
+          "type": "chord",
+          "data": {
+            "root": "G",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C29",
+          "begin": "112.260s",
+          "end": "114.761s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C30",
+          "begin": "118.762s",
+          "end": "122.763s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C31",
+          "begin": "122.763s",
+          "end": "126.765s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C32",
+          "begin": "126.765s",
+          "end": "130.766s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C33",
+          "begin": "130.766s",
+          "end": "134.767s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C34",
+          "begin": "134.767s",
+          "end": "138.769s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C35",
+          "begin": "138.769s",
+          "end": "142.770s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C36",
+          "begin": "142.770s",
+          "end": "146.771s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C37",
+          "begin": "146.771s",
+          "end": "150.773s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C38",
+          "begin": "150.773s",
+          "end": "152.523s",
+          "type": "chord",
+          "data": {
+            "root": "A",
+            "quality": "6",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C39",
+          "begin": "152.523s",
+          "end": "154.774s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "+",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C40",
+          "begin": "154.774s",
+          "end": "158.775s",
+          "type": "chord",
+          "data": {
+            "root": "E",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C41",
+          "begin": "158.775s",
+          "end": "162.777s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C42",
+          "begin": "162.777s",
+          "end": "166.778s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C43",
+          "begin": "166.778s",
+          "end": "170.779s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C44",
+          "begin": "170.779s",
+          "end": "174.781s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C45",
+          "begin": "174.781s",
+          "end": "178.782s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C46",
+          "begin": "178.782s",
+          "end": "182.783s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C47",
+          "begin": "182.783s",
+          "end": "186.785s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C48",
+          "begin": "186.785s",
+          "end": "190.786s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C49",
+          "begin": "190.786s",
+          "end": "194.787s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C50",
+          "begin": "194.787s",
+          "end": "198.789s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C51",
+          "begin": "198.789s",
+          "end": "202.790s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C52",
+          "begin": "202.790s",
+          "end": "204.791s",
+          "type": "chord",
+          "data": {
+            "root": "G",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C53",
+          "begin": "204.791s",
+          "end": "205.791s",
+          "type": "chord",
+          "data": {
+            "root": "A",
+            "quality": "",
+            "bass": "G",
+            "degrees": []
+          }
+        },
+        {
+          "id": "C54",
+          "begin": "205.791s",
+          "end": "206.791s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C55",
+          "begin": "206.791s",
+          "end": "210.793s",
+          "type": "chord",
+          "data": {
+            "root": "E",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C56",
+          "begin": "210.793s",
+          "end": "212.793s",
+          "type": "chord",
+          "data": {
+            "root": "G",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C57",
+          "begin": "212.793s",
+          "end": "214.794s",
+          "type": "chord",
+          "data": {
+            "root": "A",
+            "quality": "",
+            "bass": "G",
+            "degrees": []
+          }
+        },
+        {
+          "id": "C58",
+          "begin": "214.794s",
+          "end": "218.795s",
+          "type": "chord",
+          "data": {
+            "root": "F#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C59",
+          "begin": "218.795s",
+          "end": "222.797s",
+          "type": "chord",
+          "data": {
+            "root": "G",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C60",
+          "begin": "226.798s",
+          "end": "230.799s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C61",
+          "begin": "230.799s",
+          "end": "234.801s",
+          "type": "chord",
+          "data": {
+            "root": "A#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C62",
+          "begin": "234.801s",
+          "end": "238.802s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C63",
+          "begin": "238.802s",
+          "end": "242.803s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C64",
+          "begin": "242.803s",
+          "end": "246.805s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C65",
+          "begin": "246.805s",
+          "end": "250.806s",
+          "type": "chord",
+          "data": {
+            "root": "A#",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C66",
+          "begin": "250.806s",
+          "end": "254.807s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C67",
+          "begin": "254.807s",
+          "end": "256.808s",
+          "type": "chord",
+          "data": {
+            "root": "G#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C68",
+          "begin": "258.809s",
+          "end": "262.810s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C69",
+          "begin": "262.810s",
+          "end": "266.811s",
+          "type": "chord",
+          "data": {
+            "root": "C",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C70",
+          "begin": "266.811s",
+          "end": "270.813s",
+          "type": "chord",
+          "data": {
+            "root": "F",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C71",
+          "begin": "270.813s",
+          "end": "274.814s",
+          "type": "chord",
+          "data": {
+            "root": "A#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C72",
+          "begin": "274.814s",
+          "end": "278.815s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C73",
+          "begin": "278.815s",
+          "end": "282.817s",
+          "type": "chord",
+          "data": {
+            "root": "C",
+            "quality": "m7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C74",
+          "begin": "282.817s",
+          "end": "286.818s",
+          "type": "chord",
+          "data": {
+            "root": "F",
+            "quality": "m9",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C75",
+          "begin": "286.818s",
+          "end": "290.819s",
+          "type": "chord",
+          "data": {
+            "root": "A#",
+            "quality": "sus4",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C76",
+          "begin": "290.819s",
+          "end": "294.821s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C77",
+          "begin": "294.821s",
+          "end": "296.321s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C78",
+          "begin": "296.321s",
+          "end": "298.322s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C79",
+          "begin": "298.322s",
+          "end": "302.823s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C80",
+          "begin": "302.823s",
+          "end": "304.324s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C81",
+          "begin": "304.324s",
+          "end": "306.324s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C82",
+          "begin": "306.324s",
+          "end": "310.826s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C83",
+          "begin": "310.826s",
+          "end": "312.326s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C84",
+          "begin": "312.326s",
+          "end": "314.327s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C85",
+          "begin": "314.327s",
+          "end": "318.829s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C86",
+          "begin": "318.829s",
+          "end": "320.329s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C87",
+          "begin": "320.329s",
+          "end": "322.330s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C88",
+          "begin": "322.330s",
+          "end": "326.831s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C89",
+          "begin": "326.831s",
+          "end": "328.332s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C90",
+          "begin": "328.332s",
+          "end": "330.332s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C91",
+          "begin": "330.332s",
+          "end": "334.834s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C92",
+          "begin": "334.834s",
+          "end": "336.334s",
+          "type": "chord",
+          "data": {
+            "root": "B",
+            "quality": "Δ7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C93",
+          "begin": "336.334s",
+          "end": "338.335s",
+          "type": "chord",
+          "data": {
+            "root": "C#",
+            "quality": "7",
+            "bass": null,
+            "degrees": []
+          }
+        },
+        {
+          "id": "C94",
+          "begin": "338.335s",
+          "end": "342.837s",
+          "type": "chord",
+          "data": {
+            "root": "D#",
+            "quality": "(add2)",
+            "bass": null,
+            "degrees": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "beats",
+      "type": "beat",
+      "name": "节拍",
+      "events": [
+        {
+          "id": "B1",
+          "begin": "0.000s",
+          "end": "1.500s",
+          "type": "beat",
+          "data": {
+            "measure": 1,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B2",
+          "begin": "1.500s",
+          "end": "3.000s",
+          "type": "beat",
+          "data": {
+            "measure": 1,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B3",
+          "begin": "3.000s",
+          "end": "4.500s",
+          "type": "beat",
+          "data": {
+            "measure": 1,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B4",
+          "begin": "4.500s",
+          "end": "6.000s",
+          "type": "beat",
+          "data": {
+            "measure": 1,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B5",
+          "begin": "6.000s",
+          "end": "8.182s",
+          "type": "beat",
+          "data": {
+            "measure": 2,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B6",
+          "begin": "8.182s",
+          "end": "10.364s",
+          "type": "beat",
+          "data": {
+            "measure": 2,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B7",
+          "begin": "10.364s",
+          "end": "12.545s",
+          "type": "beat",
+          "data": {
+            "measure": 2,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B8",
+          "begin": "12.545s",
+          "end": "14.727s",
+          "type": "beat",
+          "data": {
+            "measure": 2,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B9",
+          "begin": "14.727s",
+          "end": "15.728s",
+          "type": "beat",
+          "data": {
+            "measure": 3,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B10",
+          "begin": "15.728s",
+          "end": "16.728s",
+          "type": "beat",
+          "data": {
+            "measure": 3,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B11",
+          "begin": "16.728s",
+          "end": "17.728s",
+          "type": "beat",
+          "data": {
+            "measure": 3,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B12",
+          "begin": "17.728s",
+          "end": "18.729s",
+          "type": "beat",
+          "data": {
+            "measure": 3,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B13",
+          "begin": "18.729s",
+          "end": "19.729s",
+          "type": "beat",
+          "data": {
+            "measure": 4,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B14",
+          "begin": "19.729s",
+          "end": "20.729s",
+          "type": "beat",
+          "data": {
+            "measure": 4,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B15",
+          "begin": "20.729s",
+          "end": "21.730s",
+          "type": "beat",
+          "data": {
+            "measure": 4,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B16",
+          "begin": "21.730s",
+          "end": "22.730s",
+          "type": "beat",
+          "data": {
+            "measure": 4,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B17",
+          "begin": "22.730s",
+          "end": "23.730s",
+          "type": "beat",
+          "data": {
+            "measure": 5,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B18",
+          "begin": "23.730s",
+          "end": "24.731s",
+          "type": "beat",
+          "data": {
+            "measure": 5,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B19",
+          "begin": "24.731s",
+          "end": "25.731s",
+          "type": "beat",
+          "data": {
+            "measure": 5,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B20",
+          "begin": "25.731s",
+          "end": "26.731s",
+          "type": "beat",
+          "data": {
+            "measure": 5,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B21",
+          "begin": "26.731s",
+          "end": "27.732s",
+          "type": "beat",
+          "data": {
+            "measure": 6,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B22",
+          "begin": "27.732s",
+          "end": "28.732s",
+          "type": "beat",
+          "data": {
+            "measure": 6,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B23",
+          "begin": "28.732s",
+          "end": "29.732s",
+          "type": "beat",
+          "data": {
+            "measure": 6,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B24",
+          "begin": "29.732s",
+          "end": "30.733s",
+          "type": "beat",
+          "data": {
+            "measure": 6,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B25",
+          "begin": "30.733s",
+          "end": "31.733s",
+          "type": "beat",
+          "data": {
+            "measure": 7,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B26",
+          "begin": "31.733s",
+          "end": "32.733s",
+          "type": "beat",
+          "data": {
+            "measure": 7,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B27",
+          "begin": "32.733s",
+          "end": "33.734s",
+          "type": "beat",
+          "data": {
+            "measure": 7,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B28",
+          "begin": "33.734s",
+          "end": "34.734s",
+          "type": "beat",
+          "data": {
+            "measure": 7,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B29",
+          "begin": "34.734s",
+          "end": "35.734s",
+          "type": "beat",
+          "data": {
+            "measure": 8,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B30",
+          "begin": "35.734s",
+          "end": "36.735s",
+          "type": "beat",
+          "data": {
+            "measure": 8,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B31",
+          "begin": "36.735s",
+          "end": "37.735s",
+          "type": "beat",
+          "data": {
+            "measure": 8,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B32",
+          "begin": "37.735s",
+          "end": "38.735s",
+          "type": "beat",
+          "data": {
+            "measure": 8,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B33",
+          "begin": "38.735s",
+          "end": "39.736s",
+          "type": "beat",
+          "data": {
+            "measure": 9,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B34",
+          "begin": "39.736s",
+          "end": "40.736s",
+          "type": "beat",
+          "data": {
+            "measure": 9,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B35",
+          "begin": "40.736s",
+          "end": "41.736s",
+          "type": "beat",
+          "data": {
+            "measure": 9,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B36",
+          "begin": "41.736s",
+          "end": "42.737s",
+          "type": "beat",
+          "data": {
+            "measure": 9,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B37",
+          "begin": "42.737s",
+          "end": "43.737s",
+          "type": "beat",
+          "data": {
+            "measure": 10,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B38",
+          "begin": "43.737s",
+          "end": "44.737s",
+          "type": "beat",
+          "data": {
+            "measure": 10,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B39",
+          "begin": "44.737s",
+          "end": "45.738s",
+          "type": "beat",
+          "data": {
+            "measure": 10,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B40",
+          "begin": "45.738s",
+          "end": "46.738s",
+          "type": "beat",
+          "data": {
+            "measure": 10,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B41",
+          "begin": "46.738s",
+          "end": "47.738s",
+          "type": "beat",
+          "data": {
+            "measure": 11,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B42",
+          "begin": "47.738s",
+          "end": "48.739s",
+          "type": "beat",
+          "data": {
+            "measure": 11,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B43",
+          "begin": "48.739s",
+          "end": "49.739s",
+          "type": "beat",
+          "data": {
+            "measure": 11,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B44",
+          "begin": "49.739s",
+          "end": "50.739s",
+          "type": "beat",
+          "data": {
+            "measure": 11,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B45",
+          "begin": "50.739s",
+          "end": "51.740s",
+          "type": "beat",
+          "data": {
+            "measure": 12,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B46",
+          "begin": "51.740s",
+          "end": "52.740s",
+          "type": "beat",
+          "data": {
+            "measure": 12,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B47",
+          "begin": "52.740s",
+          "end": "53.740s",
+          "type": "beat",
+          "data": {
+            "measure": 12,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B48",
+          "begin": "53.740s",
+          "end": "54.741s",
+          "type": "beat",
+          "data": {
+            "measure": 12,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B49",
+          "begin": "54.741s",
+          "end": "55.741s",
+          "type": "beat",
+          "data": {
+            "measure": 13,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B50",
+          "begin": "55.741s",
+          "end": "56.741s",
+          "type": "beat",
+          "data": {
+            "measure": 13,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B51",
+          "begin": "56.741s",
+          "end": "57.742s",
+          "type": "beat",
+          "data": {
+            "measure": 13,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B52",
+          "begin": "57.742s",
+          "end": "58.742s",
+          "type": "beat",
+          "data": {
+            "measure": 13,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B53",
+          "begin": "58.742s",
+          "end": "59.742s",
+          "type": "beat",
+          "data": {
+            "measure": 14,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B54",
+          "begin": "59.742s",
+          "end": "60.743s",
+          "type": "beat",
+          "data": {
+            "measure": 14,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B55",
+          "begin": "60.743s",
+          "end": "61.743s",
+          "type": "beat",
+          "data": {
+            "measure": 14,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B56",
+          "begin": "61.743s",
+          "end": "62.743s",
+          "type": "beat",
+          "data": {
+            "measure": 14,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B57",
+          "begin": "62.743s",
+          "end": "63.744s",
+          "type": "beat",
+          "data": {
+            "measure": 15,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B58",
+          "begin": "63.744s",
+          "end": "64.744s",
+          "type": "beat",
+          "data": {
+            "measure": 15,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B59",
+          "begin": "64.744s",
+          "end": "65.744s",
+          "type": "beat",
+          "data": {
+            "measure": 15,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B60",
+          "begin": "65.744s",
+          "end": "66.745s",
+          "type": "beat",
+          "data": {
+            "measure": 15,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B61",
+          "begin": "66.745s",
+          "end": "67.745s",
+          "type": "beat",
+          "data": {
+            "measure": 16,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B62",
+          "begin": "67.745s",
+          "end": "68.745s",
+          "type": "beat",
+          "data": {
+            "measure": 16,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B63",
+          "begin": "68.745s",
+          "end": "69.746s",
+          "type": "beat",
+          "data": {
+            "measure": 16,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B64",
+          "begin": "69.746s",
+          "end": "70.746s",
+          "type": "beat",
+          "data": {
+            "measure": 16,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B65",
+          "begin": "70.746s",
+          "end": "71.746s",
+          "type": "beat",
+          "data": {
+            "measure": 17,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B66",
+          "begin": "71.746s",
+          "end": "72.747s",
+          "type": "beat",
+          "data": {
+            "measure": 17,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B67",
+          "begin": "72.747s",
+          "end": "73.747s",
+          "type": "beat",
+          "data": {
+            "measure": 17,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B68",
+          "begin": "73.747s",
+          "end": "74.747s",
+          "type": "beat",
+          "data": {
+            "measure": 17,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B69",
+          "begin": "74.747s",
+          "end": "75.748s",
+          "type": "beat",
+          "data": {
+            "measure": 18,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B70",
+          "begin": "75.748s",
+          "end": "76.748s",
+          "type": "beat",
+          "data": {
+            "measure": 18,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B71",
+          "begin": "76.748s",
+          "end": "77.748s",
+          "type": "beat",
+          "data": {
+            "measure": 18,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B72",
+          "begin": "77.748s",
+          "end": "78.749s",
+          "type": "beat",
+          "data": {
+            "measure": 18,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B73",
+          "begin": "78.749s",
+          "end": "79.749s",
+          "type": "beat",
+          "data": {
+            "measure": 19,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B74",
+          "begin": "79.749s",
+          "end": "80.749s",
+          "type": "beat",
+          "data": {
+            "measure": 19,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B75",
+          "begin": "80.749s",
+          "end": "81.750s",
+          "type": "beat",
+          "data": {
+            "measure": 19,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B76",
+          "begin": "81.750s",
+          "end": "82.750s",
+          "type": "beat",
+          "data": {
+            "measure": 19,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B77",
+          "begin": "82.750s",
+          "end": "83.750s",
+          "type": "beat",
+          "data": {
+            "measure": 20,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B78",
+          "begin": "83.750s",
+          "end": "84.751s",
+          "type": "beat",
+          "data": {
+            "measure": 20,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B79",
+          "begin": "84.751s",
+          "end": "85.751s",
+          "type": "beat",
+          "data": {
+            "measure": 20,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B80",
+          "begin": "85.751s",
+          "end": "86.751s",
+          "type": "beat",
+          "data": {
+            "measure": 20,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B81",
+          "begin": "86.751s",
+          "end": "87.752s",
+          "type": "beat",
+          "data": {
+            "measure": 21,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B82",
+          "begin": "87.752s",
+          "end": "88.752s",
+          "type": "beat",
+          "data": {
+            "measure": 21,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B83",
+          "begin": "88.752s",
+          "end": "89.752s",
+          "type": "beat",
+          "data": {
+            "measure": 21,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B84",
+          "begin": "89.752s",
+          "end": "90.753s",
+          "type": "beat",
+          "data": {
+            "measure": 21,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B85",
+          "begin": "90.753s",
+          "end": "91.753s",
+          "type": "beat",
+          "data": {
+            "measure": 22,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B86",
+          "begin": "91.753s",
+          "end": "92.753s",
+          "type": "beat",
+          "data": {
+            "measure": 22,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B87",
+          "begin": "92.753s",
+          "end": "93.754s",
+          "type": "beat",
+          "data": {
+            "measure": 22,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B88",
+          "begin": "93.754s",
+          "end": "94.754s",
+          "type": "beat",
+          "data": {
+            "measure": 22,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B89",
+          "begin": "94.754s",
+          "end": "95.754s",
+          "type": "beat",
+          "data": {
+            "measure": 23,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B90",
+          "begin": "95.754s",
+          "end": "96.755s",
+          "type": "beat",
+          "data": {
+            "measure": 23,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B91",
+          "begin": "96.755s",
+          "end": "97.755s",
+          "type": "beat",
+          "data": {
+            "measure": 23,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B92",
+          "begin": "97.755s",
+          "end": "98.755s",
+          "type": "beat",
+          "data": {
+            "measure": 23,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B93",
+          "begin": "98.755s",
+          "end": "99.756s",
+          "type": "beat",
+          "data": {
+            "measure": 24,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B94",
+          "begin": "99.756s",
+          "end": "100.756s",
+          "type": "beat",
+          "data": {
+            "measure": 24,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B95",
+          "begin": "100.756s",
+          "end": "101.756s",
+          "type": "beat",
+          "data": {
+            "measure": 24,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B96",
+          "begin": "101.756s",
+          "end": "102.757s",
+          "type": "beat",
+          "data": {
+            "measure": 24,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B97",
+          "begin": "102.757s",
+          "end": "103.757s",
+          "type": "beat",
+          "data": {
+            "measure": 25,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B98",
+          "begin": "103.757s",
+          "end": "104.757s",
+          "type": "beat",
+          "data": {
+            "measure": 25,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B99",
+          "begin": "104.757s",
+          "end": "105.758s",
+          "type": "beat",
+          "data": {
+            "measure": 25,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B100",
+          "begin": "105.758s",
+          "end": "106.758s",
+          "type": "beat",
+          "data": {
+            "measure": 25,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B101",
+          "begin": "106.758s",
+          "end": "107.758s",
+          "type": "beat",
+          "data": {
+            "measure": 26,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B102",
+          "begin": "107.758s",
+          "end": "108.759s",
+          "type": "beat",
+          "data": {
+            "measure": 26,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B103",
+          "begin": "108.759s",
+          "end": "109.759s",
+          "type": "beat",
+          "data": {
+            "measure": 26,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B104",
+          "begin": "109.759s",
+          "end": "110.759s",
+          "type": "beat",
+          "data": {
+            "measure": 26,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B105",
+          "begin": "110.759s",
+          "end": "111.760s",
+          "type": "beat",
+          "data": {
+            "measure": 27,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B106",
+          "begin": "111.760s",
+          "end": "112.760s",
+          "type": "beat",
+          "data": {
+            "measure": 27,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B107",
+          "begin": "112.760s",
+          "end": "113.760s",
+          "type": "beat",
+          "data": {
+            "measure": 27,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B108",
+          "begin": "113.760s",
+          "end": "114.761s",
+          "type": "beat",
+          "data": {
+            "measure": 27,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B109",
+          "begin": "114.761s",
+          "end": "115.761s",
+          "type": "beat",
+          "data": {
+            "measure": 28,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B110",
+          "begin": "115.761s",
+          "end": "116.761s",
+          "type": "beat",
+          "data": {
+            "measure": 28,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B111",
+          "begin": "116.761s",
+          "end": "117.762s",
+          "type": "beat",
+          "data": {
+            "measure": 28,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B112",
+          "begin": "117.762s",
+          "end": "118.762s",
+          "type": "beat",
+          "data": {
+            "measure": 28,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B113",
+          "begin": "118.762s",
+          "end": "119.762s",
+          "type": "beat",
+          "data": {
+            "measure": 29,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B114",
+          "begin": "119.762s",
+          "end": "120.763s",
+          "type": "beat",
+          "data": {
+            "measure": 29,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B115",
+          "begin": "120.763s",
+          "end": "121.763s",
+          "type": "beat",
+          "data": {
+            "measure": 29,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B116",
+          "begin": "121.763s",
+          "end": "122.763s",
+          "type": "beat",
+          "data": {
+            "measure": 29,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B117",
+          "begin": "122.763s",
+          "end": "123.764s",
+          "type": "beat",
+          "data": {
+            "measure": 30,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B118",
+          "begin": "123.764s",
+          "end": "124.764s",
+          "type": "beat",
+          "data": {
+            "measure": 30,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B119",
+          "begin": "124.764s",
+          "end": "125.764s",
+          "type": "beat",
+          "data": {
+            "measure": 30,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B120",
+          "begin": "125.764s",
+          "end": "126.765s",
+          "type": "beat",
+          "data": {
+            "measure": 30,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B121",
+          "begin": "126.765s",
+          "end": "127.765s",
+          "type": "beat",
+          "data": {
+            "measure": 31,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B122",
+          "begin": "127.765s",
+          "end": "128.765s",
+          "type": "beat",
+          "data": {
+            "measure": 31,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B123",
+          "begin": "128.765s",
+          "end": "129.766s",
+          "type": "beat",
+          "data": {
+            "measure": 31,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B124",
+          "begin": "129.766s",
+          "end": "130.766s",
+          "type": "beat",
+          "data": {
+            "measure": 31,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B125",
+          "begin": "130.766s",
+          "end": "131.766s",
+          "type": "beat",
+          "data": {
+            "measure": 32,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B126",
+          "begin": "131.766s",
+          "end": "132.767s",
+          "type": "beat",
+          "data": {
+            "measure": 32,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B127",
+          "begin": "132.767s",
+          "end": "133.767s",
+          "type": "beat",
+          "data": {
+            "measure": 32,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B128",
+          "begin": "133.767s",
+          "end": "134.767s",
+          "type": "beat",
+          "data": {
+            "measure": 32,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B129",
+          "begin": "134.767s",
+          "end": "135.768s",
+          "type": "beat",
+          "data": {
+            "measure": 33,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B130",
+          "begin": "135.768s",
+          "end": "136.768s",
+          "type": "beat",
+          "data": {
+            "measure": 33,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B131",
+          "begin": "136.768s",
+          "end": "137.768s",
+          "type": "beat",
+          "data": {
+            "measure": 33,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B132",
+          "begin": "137.768s",
+          "end": "138.769s",
+          "type": "beat",
+          "data": {
+            "measure": 33,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B133",
+          "begin": "138.769s",
+          "end": "139.769s",
+          "type": "beat",
+          "data": {
+            "measure": 34,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B134",
+          "begin": "139.769s",
+          "end": "140.769s",
+          "type": "beat",
+          "data": {
+            "measure": 34,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B135",
+          "begin": "140.769s",
+          "end": "141.770s",
+          "type": "beat",
+          "data": {
+            "measure": 34,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B136",
+          "begin": "141.770s",
+          "end": "142.770s",
+          "type": "beat",
+          "data": {
+            "measure": 34,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B137",
+          "begin": "142.770s",
+          "end": "143.770s",
+          "type": "beat",
+          "data": {
+            "measure": 35,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B138",
+          "begin": "143.770s",
+          "end": "144.771s",
+          "type": "beat",
+          "data": {
+            "measure": 35,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B139",
+          "begin": "144.771s",
+          "end": "145.771s",
+          "type": "beat",
+          "data": {
+            "measure": 35,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B140",
+          "begin": "145.771s",
+          "end": "146.771s",
+          "type": "beat",
+          "data": {
+            "measure": 35,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B141",
+          "begin": "146.771s",
+          "end": "147.772s",
+          "type": "beat",
+          "data": {
+            "measure": 36,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B142",
+          "begin": "147.772s",
+          "end": "148.772s",
+          "type": "beat",
+          "data": {
+            "measure": 36,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B143",
+          "begin": "148.772s",
+          "end": "149.772s",
+          "type": "beat",
+          "data": {
+            "measure": 36,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B144",
+          "begin": "149.772s",
+          "end": "150.773s",
+          "type": "beat",
+          "data": {
+            "measure": 36,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B145",
+          "begin": "150.773s",
+          "end": "151.773s",
+          "type": "beat",
+          "data": {
+            "measure": 37,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B146",
+          "begin": "151.773s",
+          "end": "152.773s",
+          "type": "beat",
+          "data": {
+            "measure": 37,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B147",
+          "begin": "152.773s",
+          "end": "153.774s",
+          "type": "beat",
+          "data": {
+            "measure": 37,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B148",
+          "begin": "153.774s",
+          "end": "154.774s",
+          "type": "beat",
+          "data": {
+            "measure": 37,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B149",
+          "begin": "154.774s",
+          "end": "155.774s",
+          "type": "beat",
+          "data": {
+            "measure": 38,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B150",
+          "begin": "155.774s",
+          "end": "156.775s",
+          "type": "beat",
+          "data": {
+            "measure": 38,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B151",
+          "begin": "156.775s",
+          "end": "157.775s",
+          "type": "beat",
+          "data": {
+            "measure": 38,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B152",
+          "begin": "157.775s",
+          "end": "158.775s",
+          "type": "beat",
+          "data": {
+            "measure": 38,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B153",
+          "begin": "158.775s",
+          "end": "159.776s",
+          "type": "beat",
+          "data": {
+            "measure": 39,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B154",
+          "begin": "159.776s",
+          "end": "160.776s",
+          "type": "beat",
+          "data": {
+            "measure": 39,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B155",
+          "begin": "160.776s",
+          "end": "161.776s",
+          "type": "beat",
+          "data": {
+            "measure": 39,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B156",
+          "begin": "161.776s",
+          "end": "162.777s",
+          "type": "beat",
+          "data": {
+            "measure": 39,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B157",
+          "begin": "162.777s",
+          "end": "163.777s",
+          "type": "beat",
+          "data": {
+            "measure": 40,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B158",
+          "begin": "163.777s",
+          "end": "164.777s",
+          "type": "beat",
+          "data": {
+            "measure": 40,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B159",
+          "begin": "164.777s",
+          "end": "165.778s",
+          "type": "beat",
+          "data": {
+            "measure": 40,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B160",
+          "begin": "165.778s",
+          "end": "166.778s",
+          "type": "beat",
+          "data": {
+            "measure": 40,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B161",
+          "begin": "166.778s",
+          "end": "167.778s",
+          "type": "beat",
+          "data": {
+            "measure": 41,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B162",
+          "begin": "167.778s",
+          "end": "168.779s",
+          "type": "beat",
+          "data": {
+            "measure": 41,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B163",
+          "begin": "168.779s",
+          "end": "169.779s",
+          "type": "beat",
+          "data": {
+            "measure": 41,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B164",
+          "begin": "169.779s",
+          "end": "170.779s",
+          "type": "beat",
+          "data": {
+            "measure": 41,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B165",
+          "begin": "170.779s",
+          "end": "171.780s",
+          "type": "beat",
+          "data": {
+            "measure": 42,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B166",
+          "begin": "171.780s",
+          "end": "172.780s",
+          "type": "beat",
+          "data": {
+            "measure": 42,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B167",
+          "begin": "172.780s",
+          "end": "173.780s",
+          "type": "beat",
+          "data": {
+            "measure": 42,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B168",
+          "begin": "173.780s",
+          "end": "174.781s",
+          "type": "beat",
+          "data": {
+            "measure": 42,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B169",
+          "begin": "174.781s",
+          "end": "175.781s",
+          "type": "beat",
+          "data": {
+            "measure": 43,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B170",
+          "begin": "175.781s",
+          "end": "176.781s",
+          "type": "beat",
+          "data": {
+            "measure": 43,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B171",
+          "begin": "176.781s",
+          "end": "177.782s",
+          "type": "beat",
+          "data": {
+            "measure": 43,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B172",
+          "begin": "177.782s",
+          "end": "178.782s",
+          "type": "beat",
+          "data": {
+            "measure": 43,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B173",
+          "begin": "178.782s",
+          "end": "179.782s",
+          "type": "beat",
+          "data": {
+            "measure": 44,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B174",
+          "begin": "179.782s",
+          "end": "180.783s",
+          "type": "beat",
+          "data": {
+            "measure": 44,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B175",
+          "begin": "180.783s",
+          "end": "181.783s",
+          "type": "beat",
+          "data": {
+            "measure": 44,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B176",
+          "begin": "181.783s",
+          "end": "182.783s",
+          "type": "beat",
+          "data": {
+            "measure": 44,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B177",
+          "begin": "182.783s",
+          "end": "183.784s",
+          "type": "beat",
+          "data": {
+            "measure": 45,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B178",
+          "begin": "183.784s",
+          "end": "184.784s",
+          "type": "beat",
+          "data": {
+            "measure": 45,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B179",
+          "begin": "184.784s",
+          "end": "185.784s",
+          "type": "beat",
+          "data": {
+            "measure": 45,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B180",
+          "begin": "185.784s",
+          "end": "186.785s",
+          "type": "beat",
+          "data": {
+            "measure": 45,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B181",
+          "begin": "186.785s",
+          "end": "187.785s",
+          "type": "beat",
+          "data": {
+            "measure": 46,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B182",
+          "begin": "187.785s",
+          "end": "188.785s",
+          "type": "beat",
+          "data": {
+            "measure": 46,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B183",
+          "begin": "188.785s",
+          "end": "189.786s",
+          "type": "beat",
+          "data": {
+            "measure": 46,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B184",
+          "begin": "189.786s",
+          "end": "190.786s",
+          "type": "beat",
+          "data": {
+            "measure": 46,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B185",
+          "begin": "190.786s",
+          "end": "191.786s",
+          "type": "beat",
+          "data": {
+            "measure": 47,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B186",
+          "begin": "191.786s",
+          "end": "192.787s",
+          "type": "beat",
+          "data": {
+            "measure": 47,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B187",
+          "begin": "192.787s",
+          "end": "193.787s",
+          "type": "beat",
+          "data": {
+            "measure": 47,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B188",
+          "begin": "193.787s",
+          "end": "194.787s",
+          "type": "beat",
+          "data": {
+            "measure": 47,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B189",
+          "begin": "194.787s",
+          "end": "195.788s",
+          "type": "beat",
+          "data": {
+            "measure": 48,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B190",
+          "begin": "195.788s",
+          "end": "196.788s",
+          "type": "beat",
+          "data": {
+            "measure": 48,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B191",
+          "begin": "196.788s",
+          "end": "197.788s",
+          "type": "beat",
+          "data": {
+            "measure": 48,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B192",
+          "begin": "197.788s",
+          "end": "198.789s",
+          "type": "beat",
+          "data": {
+            "measure": 48,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B193",
+          "begin": "198.789s",
+          "end": "199.789s",
+          "type": "beat",
+          "data": {
+            "measure": 49,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B194",
+          "begin": "199.789s",
+          "end": "200.789s",
+          "type": "beat",
+          "data": {
+            "measure": 49,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B195",
+          "begin": "200.789s",
+          "end": "201.790s",
+          "type": "beat",
+          "data": {
+            "measure": 49,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B196",
+          "begin": "201.790s",
+          "end": "202.790s",
+          "type": "beat",
+          "data": {
+            "measure": 49,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B197",
+          "begin": "202.790s",
+          "end": "203.790s",
+          "type": "beat",
+          "data": {
+            "measure": 50,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B198",
+          "begin": "203.790s",
+          "end": "204.791s",
+          "type": "beat",
+          "data": {
+            "measure": 50,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B199",
+          "begin": "204.791s",
+          "end": "205.791s",
+          "type": "beat",
+          "data": {
+            "measure": 50,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B200",
+          "begin": "205.791s",
+          "end": "206.791s",
+          "type": "beat",
+          "data": {
+            "measure": 50,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B201",
+          "begin": "206.791s",
+          "end": "207.792s",
+          "type": "beat",
+          "data": {
+            "measure": 51,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B202",
+          "begin": "207.792s",
+          "end": "208.792s",
+          "type": "beat",
+          "data": {
+            "measure": 51,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B203",
+          "begin": "208.792s",
+          "end": "209.792s",
+          "type": "beat",
+          "data": {
+            "measure": 51,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B204",
+          "begin": "209.792s",
+          "end": "210.793s",
+          "type": "beat",
+          "data": {
+            "measure": 51,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B205",
+          "begin": "210.793s",
+          "end": "211.793s",
+          "type": "beat",
+          "data": {
+            "measure": 52,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B206",
+          "begin": "211.793s",
+          "end": "212.793s",
+          "type": "beat",
+          "data": {
+            "measure": 52,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B207",
+          "begin": "212.793s",
+          "end": "213.794s",
+          "type": "beat",
+          "data": {
+            "measure": 52,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B208",
+          "begin": "213.794s",
+          "end": "214.794s",
+          "type": "beat",
+          "data": {
+            "measure": 52,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B209",
+          "begin": "214.794s",
+          "end": "215.794s",
+          "type": "beat",
+          "data": {
+            "measure": 53,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B210",
+          "begin": "215.794s",
+          "end": "216.795s",
+          "type": "beat",
+          "data": {
+            "measure": 53,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B211",
+          "begin": "216.795s",
+          "end": "217.795s",
+          "type": "beat",
+          "data": {
+            "measure": 53,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B212",
+          "begin": "217.795s",
+          "end": "218.795s",
+          "type": "beat",
+          "data": {
+            "measure": 53,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B213",
+          "begin": "218.795s",
+          "end": "219.796s",
+          "type": "beat",
+          "data": {
+            "measure": 54,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B214",
+          "begin": "219.796s",
+          "end": "220.796s",
+          "type": "beat",
+          "data": {
+            "measure": 54,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B215",
+          "begin": "220.796s",
+          "end": "221.796s",
+          "type": "beat",
+          "data": {
+            "measure": 54,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B216",
+          "begin": "221.796s",
+          "end": "222.797s",
+          "type": "beat",
+          "data": {
+            "measure": 54,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B217",
+          "begin": "222.797s",
+          "end": "223.797s",
+          "type": "beat",
+          "data": {
+            "measure": 55,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B218",
+          "begin": "223.797s",
+          "end": "224.797s",
+          "type": "beat",
+          "data": {
+            "measure": 55,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B219",
+          "begin": "224.797s",
+          "end": "225.798s",
+          "type": "beat",
+          "data": {
+            "measure": 55,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B220",
+          "begin": "225.798s",
+          "end": "226.798s",
+          "type": "beat",
+          "data": {
+            "measure": 55,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B221",
+          "begin": "226.798s",
+          "end": "227.798s",
+          "type": "beat",
+          "data": {
+            "measure": 56,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B222",
+          "begin": "227.798s",
+          "end": "228.799s",
+          "type": "beat",
+          "data": {
+            "measure": 56,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B223",
+          "begin": "228.799s",
+          "end": "229.799s",
+          "type": "beat",
+          "data": {
+            "measure": 56,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B224",
+          "begin": "229.799s",
+          "end": "230.799s",
+          "type": "beat",
+          "data": {
+            "measure": 56,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B225",
+          "begin": "230.799s",
+          "end": "231.800s",
+          "type": "beat",
+          "data": {
+            "measure": 57,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B226",
+          "begin": "231.800s",
+          "end": "232.800s",
+          "type": "beat",
+          "data": {
+            "measure": 57,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B227",
+          "begin": "232.800s",
+          "end": "233.800s",
+          "type": "beat",
+          "data": {
+            "measure": 57,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B228",
+          "begin": "233.800s",
+          "end": "234.801s",
+          "type": "beat",
+          "data": {
+            "measure": 57,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B229",
+          "begin": "234.801s",
+          "end": "235.801s",
+          "type": "beat",
+          "data": {
+            "measure": 58,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B230",
+          "begin": "235.801s",
+          "end": "236.801s",
+          "type": "beat",
+          "data": {
+            "measure": 58,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B231",
+          "begin": "236.801s",
+          "end": "237.802s",
+          "type": "beat",
+          "data": {
+            "measure": 58,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B232",
+          "begin": "237.802s",
+          "end": "238.802s",
+          "type": "beat",
+          "data": {
+            "measure": 58,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B233",
+          "begin": "238.802s",
+          "end": "239.802s",
+          "type": "beat",
+          "data": {
+            "measure": 59,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B234",
+          "begin": "239.802s",
+          "end": "240.803s",
+          "type": "beat",
+          "data": {
+            "measure": 59,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B235",
+          "begin": "240.803s",
+          "end": "241.803s",
+          "type": "beat",
+          "data": {
+            "measure": 59,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B236",
+          "begin": "241.803s",
+          "end": "242.803s",
+          "type": "beat",
+          "data": {
+            "measure": 59,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B237",
+          "begin": "242.803s",
+          "end": "243.804s",
+          "type": "beat",
+          "data": {
+            "measure": 60,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B238",
+          "begin": "243.804s",
+          "end": "244.804s",
+          "type": "beat",
+          "data": {
+            "measure": 60,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B239",
+          "begin": "244.804s",
+          "end": "245.804s",
+          "type": "beat",
+          "data": {
+            "measure": 60,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B240",
+          "begin": "245.804s",
+          "end": "246.805s",
+          "type": "beat",
+          "data": {
+            "measure": 60,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B241",
+          "begin": "246.805s",
+          "end": "247.805s",
+          "type": "beat",
+          "data": {
+            "measure": 61,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B242",
+          "begin": "247.805s",
+          "end": "248.805s",
+          "type": "beat",
+          "data": {
+            "measure": 61,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B243",
+          "begin": "248.805s",
+          "end": "249.806s",
+          "type": "beat",
+          "data": {
+            "measure": 61,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B244",
+          "begin": "249.806s",
+          "end": "250.806s",
+          "type": "beat",
+          "data": {
+            "measure": 61,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B245",
+          "begin": "250.806s",
+          "end": "251.806s",
+          "type": "beat",
+          "data": {
+            "measure": 62,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B246",
+          "begin": "251.806s",
+          "end": "252.807s",
+          "type": "beat",
+          "data": {
+            "measure": 62,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B247",
+          "begin": "252.807s",
+          "end": "253.807s",
+          "type": "beat",
+          "data": {
+            "measure": 62,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B248",
+          "begin": "253.807s",
+          "end": "254.807s",
+          "type": "beat",
+          "data": {
+            "measure": 62,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B249",
+          "begin": "254.807s",
+          "end": "255.808s",
+          "type": "beat",
+          "data": {
+            "measure": 63,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B250",
+          "begin": "255.808s",
+          "end": "256.808s",
+          "type": "beat",
+          "data": {
+            "measure": 63,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B251",
+          "begin": "256.808s",
+          "end": "257.808s",
+          "type": "beat",
+          "data": {
+            "measure": 63,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B252",
+          "begin": "257.808s",
+          "end": "258.809s",
+          "type": "beat",
+          "data": {
+            "measure": 63,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B253",
+          "begin": "258.809s",
+          "end": "259.809s",
+          "type": "beat",
+          "data": {
+            "measure": 64,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B254",
+          "begin": "259.809s",
+          "end": "260.809s",
+          "type": "beat",
+          "data": {
+            "measure": 64,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B255",
+          "begin": "260.809s",
+          "end": "261.810s",
+          "type": "beat",
+          "data": {
+            "measure": 64,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B256",
+          "begin": "261.810s",
+          "end": "262.810s",
+          "type": "beat",
+          "data": {
+            "measure": 64,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B257",
+          "begin": "262.810s",
+          "end": "263.810s",
+          "type": "beat",
+          "data": {
+            "measure": 65,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B258",
+          "begin": "263.810s",
+          "end": "264.811s",
+          "type": "beat",
+          "data": {
+            "measure": 65,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B259",
+          "begin": "264.811s",
+          "end": "265.811s",
+          "type": "beat",
+          "data": {
+            "measure": 65,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B260",
+          "begin": "265.811s",
+          "end": "266.811s",
+          "type": "beat",
+          "data": {
+            "measure": 65,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B261",
+          "begin": "266.811s",
+          "end": "267.812s",
+          "type": "beat",
+          "data": {
+            "measure": 66,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B262",
+          "begin": "267.812s",
+          "end": "268.812s",
+          "type": "beat",
+          "data": {
+            "measure": 66,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B263",
+          "begin": "268.812s",
+          "end": "269.812s",
+          "type": "beat",
+          "data": {
+            "measure": 66,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B264",
+          "begin": "269.812s",
+          "end": "270.813s",
+          "type": "beat",
+          "data": {
+            "measure": 66,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B265",
+          "begin": "270.813s",
+          "end": "271.813s",
+          "type": "beat",
+          "data": {
+            "measure": 67,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B266",
+          "begin": "271.813s",
+          "end": "272.813s",
+          "type": "beat",
+          "data": {
+            "measure": 67,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B267",
+          "begin": "272.813s",
+          "end": "273.814s",
+          "type": "beat",
+          "data": {
+            "measure": 67,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B268",
+          "begin": "273.814s",
+          "end": "274.814s",
+          "type": "beat",
+          "data": {
+            "measure": 67,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B269",
+          "begin": "274.814s",
+          "end": "275.814s",
+          "type": "beat",
+          "data": {
+            "measure": 68,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B270",
+          "begin": "275.814s",
+          "end": "276.815s",
+          "type": "beat",
+          "data": {
+            "measure": 68,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B271",
+          "begin": "276.815s",
+          "end": "277.815s",
+          "type": "beat",
+          "data": {
+            "measure": 68,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B272",
+          "begin": "277.815s",
+          "end": "278.815s",
+          "type": "beat",
+          "data": {
+            "measure": 68,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B273",
+          "begin": "278.815s",
+          "end": "279.816s",
+          "type": "beat",
+          "data": {
+            "measure": 69,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B274",
+          "begin": "279.816s",
+          "end": "280.816s",
+          "type": "beat",
+          "data": {
+            "measure": 69,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B275",
+          "begin": "280.816s",
+          "end": "281.816s",
+          "type": "beat",
+          "data": {
+            "measure": 69,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B276",
+          "begin": "281.816s",
+          "end": "282.817s",
+          "type": "beat",
+          "data": {
+            "measure": 69,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B277",
+          "begin": "282.817s",
+          "end": "283.817s",
+          "type": "beat",
+          "data": {
+            "measure": 70,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B278",
+          "begin": "283.817s",
+          "end": "284.817s",
+          "type": "beat",
+          "data": {
+            "measure": 70,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B279",
+          "begin": "284.817s",
+          "end": "285.818s",
+          "type": "beat",
+          "data": {
+            "measure": 70,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B280",
+          "begin": "285.818s",
+          "end": "286.818s",
+          "type": "beat",
+          "data": {
+            "measure": 70,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B281",
+          "begin": "286.818s",
+          "end": "287.818s",
+          "type": "beat",
+          "data": {
+            "measure": 71,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B282",
+          "begin": "287.818s",
+          "end": "288.819s",
+          "type": "beat",
+          "data": {
+            "measure": 71,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B283",
+          "begin": "288.819s",
+          "end": "289.819s",
+          "type": "beat",
+          "data": {
+            "measure": 71,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B284",
+          "begin": "289.819s",
+          "end": "290.819s",
+          "type": "beat",
+          "data": {
+            "measure": 71,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B285",
+          "begin": "290.819s",
+          "end": "291.820s",
+          "type": "beat",
+          "data": {
+            "measure": 72,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B286",
+          "begin": "291.820s",
+          "end": "292.820s",
+          "type": "beat",
+          "data": {
+            "measure": 72,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B287",
+          "begin": "292.820s",
+          "end": "293.820s",
+          "type": "beat",
+          "data": {
+            "measure": 72,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B288",
+          "begin": "293.820s",
+          "end": "294.821s",
+          "type": "beat",
+          "data": {
+            "measure": 72,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B289",
+          "begin": "294.821s",
+          "end": "295.821s",
+          "type": "beat",
+          "data": {
+            "measure": 73,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B290",
+          "begin": "295.821s",
+          "end": "296.821s",
+          "type": "beat",
+          "data": {
+            "measure": 73,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B291",
+          "begin": "296.821s",
+          "end": "297.822s",
+          "type": "beat",
+          "data": {
+            "measure": 73,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B292",
+          "begin": "297.822s",
+          "end": "298.822s",
+          "type": "beat",
+          "data": {
+            "measure": 73,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B293",
+          "begin": "298.822s",
+          "end": "299.822s",
+          "type": "beat",
+          "data": {
+            "measure": 74,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B294",
+          "begin": "299.822s",
+          "end": "300.823s",
+          "type": "beat",
+          "data": {
+            "measure": 74,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B295",
+          "begin": "300.823s",
+          "end": "301.823s",
+          "type": "beat",
+          "data": {
+            "measure": 74,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B296",
+          "begin": "301.823s",
+          "end": "302.823s",
+          "type": "beat",
+          "data": {
+            "measure": 74,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B297",
+          "begin": "302.823s",
+          "end": "303.824s",
+          "type": "beat",
+          "data": {
+            "measure": 75,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B298",
+          "begin": "303.824s",
+          "end": "304.824s",
+          "type": "beat",
+          "data": {
+            "measure": 75,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B299",
+          "begin": "304.824s",
+          "end": "305.824s",
+          "type": "beat",
+          "data": {
+            "measure": 75,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B300",
+          "begin": "305.824s",
+          "end": "306.825s",
+          "type": "beat",
+          "data": {
+            "measure": 75,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B301",
+          "begin": "306.825s",
+          "end": "307.825s",
+          "type": "beat",
+          "data": {
+            "measure": 76,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B302",
+          "begin": "307.825s",
+          "end": "308.825s",
+          "type": "beat",
+          "data": {
+            "measure": 76,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B303",
+          "begin": "308.825s",
+          "end": "309.826s",
+          "type": "beat",
+          "data": {
+            "measure": 76,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B304",
+          "begin": "309.826s",
+          "end": "310.826s",
+          "type": "beat",
+          "data": {
+            "measure": 76,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B305",
+          "begin": "310.826s",
+          "end": "311.826s",
+          "type": "beat",
+          "data": {
+            "measure": 77,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B306",
+          "begin": "311.826s",
+          "end": "312.827s",
+          "type": "beat",
+          "data": {
+            "measure": 77,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B307",
+          "begin": "312.827s",
+          "end": "313.827s",
+          "type": "beat",
+          "data": {
+            "measure": 77,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B308",
+          "begin": "313.827s",
+          "end": "314.827s",
+          "type": "beat",
+          "data": {
+            "measure": 77,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B309",
+          "begin": "314.827s",
+          "end": "315.828s",
+          "type": "beat",
+          "data": {
+            "measure": 78,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B310",
+          "begin": "315.828s",
+          "end": "316.828s",
+          "type": "beat",
+          "data": {
+            "measure": 78,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B311",
+          "begin": "316.828s",
+          "end": "317.828s",
+          "type": "beat",
+          "data": {
+            "measure": 78,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B312",
+          "begin": "317.828s",
+          "end": "318.829s",
+          "type": "beat",
+          "data": {
+            "measure": 78,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B313",
+          "begin": "318.829s",
+          "end": "319.829s",
+          "type": "beat",
+          "data": {
+            "measure": 79,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B314",
+          "begin": "319.829s",
+          "end": "320.829s",
+          "type": "beat",
+          "data": {
+            "measure": 79,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B315",
+          "begin": "320.829s",
+          "end": "321.830s",
+          "type": "beat",
+          "data": {
+            "measure": 79,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B316",
+          "begin": "321.830s",
+          "end": "322.830s",
+          "type": "beat",
+          "data": {
+            "measure": 79,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B317",
+          "begin": "322.830s",
+          "end": "323.830s",
+          "type": "beat",
+          "data": {
+            "measure": 80,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B318",
+          "begin": "323.830s",
+          "end": "324.831s",
+          "type": "beat",
+          "data": {
+            "measure": 80,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B319",
+          "begin": "324.831s",
+          "end": "325.831s",
+          "type": "beat",
+          "data": {
+            "measure": 80,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B320",
+          "begin": "325.831s",
+          "end": "326.831s",
+          "type": "beat",
+          "data": {
+            "measure": 80,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B321",
+          "begin": "326.831s",
+          "end": "327.832s",
+          "type": "beat",
+          "data": {
+            "measure": 81,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B322",
+          "begin": "327.832s",
+          "end": "328.832s",
+          "type": "beat",
+          "data": {
+            "measure": 81,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B323",
+          "begin": "328.832s",
+          "end": "329.832s",
+          "type": "beat",
+          "data": {
+            "measure": 81,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B324",
+          "begin": "329.832s",
+          "end": "330.833s",
+          "type": "beat",
+          "data": {
+            "measure": 81,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B325",
+          "begin": "330.833s",
+          "end": "331.833s",
+          "type": "beat",
+          "data": {
+            "measure": 82,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B326",
+          "begin": "331.833s",
+          "end": "332.833s",
+          "type": "beat",
+          "data": {
+            "measure": 82,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B327",
+          "begin": "332.833s",
+          "end": "333.834s",
+          "type": "beat",
+          "data": {
+            "measure": 82,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B328",
+          "begin": "333.834s",
+          "end": "334.834s",
+          "type": "beat",
+          "data": {
+            "measure": 82,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B329",
+          "begin": "334.834s",
+          "end": "335.834s",
+          "type": "beat",
+          "data": {
+            "measure": 83,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B330",
+          "begin": "335.834s",
+          "end": "336.835s",
+          "type": "beat",
+          "data": {
+            "measure": 83,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B331",
+          "begin": "336.835s",
+          "end": "337.835s",
+          "type": "beat",
+          "data": {
+            "measure": 83,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B332",
+          "begin": "337.835s",
+          "end": "338.835s",
+          "type": "beat",
+          "data": {
+            "measure": 83,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B333",
+          "begin": "338.835s",
+          "end": "339.836s",
+          "type": "beat",
+          "data": {
+            "measure": 84,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B334",
+          "begin": "339.836s",
+          "end": "340.836s",
+          "type": "beat",
+          "data": {
+            "measure": 84,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B335",
+          "begin": "340.836s",
+          "end": "341.836s",
+          "type": "beat",
+          "data": {
+            "measure": 84,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B336",
+          "begin": "341.836s",
+          "end": "342.837s",
+          "type": "beat",
+          "data": {
+            "measure": 84,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B337",
+          "begin": "342.837s",
+          "end": "343.837s",
+          "type": "beat",
+          "data": {
+            "measure": 85,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B338",
+          "begin": "343.837s",
+          "end": "344.837s",
+          "type": "beat",
+          "data": {
+            "measure": 85,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B339",
+          "begin": "344.837s",
+          "end": "345.838s",
+          "type": "beat",
+          "data": {
+            "measure": 85,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B340",
+          "begin": "345.838s",
+          "end": "346.838s",
+          "type": "beat",
+          "data": {
+            "measure": 85,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B341",
+          "begin": "346.838s",
+          "end": "347.838s",
+          "type": "beat",
+          "data": {
+            "measure": 86,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B342",
+          "begin": "347.838s",
+          "end": "348.839s",
+          "type": "beat",
+          "data": {
+            "measure": 86,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B343",
+          "begin": "348.839s",
+          "end": "349.839s",
+          "type": "beat",
+          "data": {
+            "measure": 86,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B344",
+          "begin": "349.839s",
+          "end": "350.839s",
+          "type": "beat",
+          "data": {
+            "measure": 86,
+            "beat": 4,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B345",
+          "begin": "350.839s",
+          "end": "351.840s",
+          "type": "beat",
+          "data": {
+            "measure": 87,
+            "beat": 1,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B346",
+          "begin": "351.840s",
+          "end": "352.840s",
+          "type": "beat",
+          "data": {
+            "measure": 87,
+            "beat": 2,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B347",
+          "begin": "352.840s",
+          "end": "353.840s",
+          "type": "beat",
+          "data": {
+            "measure": 87,
+            "beat": 3,
+            "meter": 4
+          }
+        },
+        {
+          "id": "B348",
+          "begin": "353.840s",
+          "end": "354.841s",
+          "type": "beat",
+          "data": {
+            "measure": 87,
+            "beat": 4,
+            "meter": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "tempos",
+      "type": "tempo",
+      "name": "速度",
+      "events": [
+        {
+          "id": "T1",
+          "begin": "0.000s",
+          "end": "6.000s",
+          "type": "tempo",
+          "data": {
+            "bpm": 40
+          }
+        },
+        {
+          "id": "T2",
+          "begin": "6.000s",
+          "end": "14.727s",
+          "type": "tempo",
+          "data": {
+            "bpm": 27.5
+          }
+        },
+        {
+          "id": "T3",
+          "begin": "14.727s",
+          "end": "354.841s",
+          "type": "tempo",
+          "data": {
+            "bpm": 59.98
+          }
+        }
+      ]
+    },
+    {
+      "id": "keys",
+      "type": "key",
+      "name": "调性",
+      "events": [
+        {
+          "id": "K1",
+          "begin": "0.000s",
+          "end": "50.739s",
+          "type": "key",
+          "data": {
+            "tonic": "B",
+            "mode": "major"
+          }
+        },
+        {
+          "id": "K2",
+          "begin": "50.739s",
+          "end": "66.745s",
+          "type": "key",
+          "data": {
+            "tonic": "C#",
+            "mode": "dorian"
+          }
+        },
+        {
+          "id": "K3",
+          "begin": "66.745s",
+          "end": "150.773s",
+          "type": "key",
+          "data": {
+            "tonic": "B",
+            "mode": "major"
+          }
+        },
+        {
+          "id": "K4",
+          "begin": "150.773s",
+          "end": "166.778s",
+          "type": "key",
+          "data": {
+            "tonic": "C#",
+            "mode": "dorian"
+          }
+        },
+        {
+          "id": "K5",
+          "begin": "166.778s",
+          "end": "202.790s",
+          "type": "key",
+          "data": {
+            "tonic": "B",
+            "mode": "major"
+          }
+        },
+        {
+          "id": "K6",
+          "begin": "202.790s",
+          "end": "218.795s",
+          "type": "key",
+          "data": {
+            "tonic": "B",
+            "mode": "minor"
+          }
+        },
+        {
+          "id": "K7",
+          "begin": "218.795s",
+          "end": "224.797s",
+          "type": "key",
+          "data": {
+            "tonic": "C",
+            "mode": "major"
+          }
+        },
+        {
+          "id": "K8",
+          "begin": "224.797s",
+          "end": "256.808s",
+          "type": "key",
+          "data": {
+            "tonic": "C#",
+            "mode": "major"
+          }
+        },
+        {
+          "id": "K9",
+          "begin": "256.808s",
+          "end": "294.821s",
+          "type": "key",
+          "data": {
+            "tonic": "D#",
+            "mode": "major"
+          }
+        },
+        {
+          "id": "K10",
+          "begin": "294.821s",
+          "end": "354.841s",
+          "type": "key",
+          "data": {
+            "tonic": "D#",
+            "mode": "minor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sections",
+      "type": "section",
+      "name": "段落",
+      "events": [
+        {
+          "id": "S1",
+          "begin": "16.684s",
+          "end": "50.264s",
+          "type": "section",
+          "data": {
+            "type": "verse"
+          }
+        },
+        {
+          "id": "S2",
+          "begin": "50.264s",
+          "end": "64.573s",
+          "type": "section",
+          "data": {
+            "type": "preChorus"
+          }
+        },
+        {
+          "id": "S3",
+          "begin": "64.573s",
+          "end": "116.792s",
+          "type": "section",
+          "data": {
+            "type": "chorus"
+          }
+        },
+        {
+          "id": "S4",
+          "begin": "116.792s",
+          "end": "150.287s",
+          "type": "section",
+          "data": {
+            "type": "verse"
+          }
+        },
+        {
+          "id": "S5",
+          "begin": "150.287s",
+          "end": "164.527s",
+          "type": "section",
+          "data": {
+            "type": "preChorus"
+          }
+        },
+        {
+          "id": "S6",
+          "begin": "164.527s",
+          "end": "201.502s",
+          "type": "section",
+          "data": {
+            "type": "chorus"
+          }
+        },
+        {
+          "id": "S7",
+          "begin": "201.502s",
+          "end": "224.842s",
+          "type": "section",
+          "data": {
+            "type": "bridge"
+          }
+        },
+        {
+          "id": "S8",
+          "begin": "224.842s",
+          "end": "256.828s",
+          "type": "section",
+          "data": {
+            "type": "chorus"
+          }
+        },
+        {
+          "id": "S9",
+          "begin": "256.828s",
+          "end": "288.848s",
+          "type": "section",
+          "data": {
+            "type": "chorus"
+          }
+        },
+        {
+          "id": "S10",
+          "begin": "288.848s",
+          "end": "354.841s",
+          "type": "section",
+          "data": {
+            "type": "outro"
+          }
+        }
+      ]
+    }
+  ]
+}

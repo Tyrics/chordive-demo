@@ -1,0 +1,34 @@
+{
+  "id": "demo",
+  "title": "You Are Not Alone",
+  "artist": "Michael Jackson",
+  "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+  "releaseDate": "1995-06-18",
+  "durationInMillis": 344826,
+  "genreNames": [
+    "国际流行",
+    "音乐",
+    "摇滚",
+    "舞曲",
+    "R&B/灵魂乐",
+    "放克",
+    "流行/摇滚"
+  ],
+  "trackNumber": 9,
+  "discNumber": 2,
+  "isrc": "USSM19500002",
+  "composerName": "R. Kelly & Robert Kelly",
+  "contentRating": null,
+  "isAppleDigitalMaster": true,
+  "artwork": {
+    "bgColor": "000003",
+    "hasP3": false,
+    "height": 1380,
+    "textColor1": "a2abcf",
+    "textColor2": "df715f",
+    "textColor3": "8189a6",
+    "textColor4": "b35a4c",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/8d/b1/c58db1f1-0249-7a52-b58c-6f4eb145b06a/884977149166.jpg/{w}x{h}bb.jpg",
+    "width": 1380
+  }
+}
